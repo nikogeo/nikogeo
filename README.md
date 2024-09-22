@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nikola Georgiev
-- 👀 I’m interested in Cloud Technologies, Modern Work, and Cybersecurity
-- 🌱 I’m currently learning details of the MS Cloud portfolio
+- 👀 I’m interested in new technologies, AI, Machine Learning and coding
 - 📫 How to reach me: georgiev.nikola@outlook.com, https://www.linkedin.com/in/georgni/
 
 <!---
